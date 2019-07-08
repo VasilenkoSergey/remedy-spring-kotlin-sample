@@ -1,0 +1,1 @@
+# Sample BMC Remedy plugin using kotlin language and spring framework provided by pluginsvr
